@@ -9,7 +9,7 @@ export function Navbar() {
           href="/" 
           className="text-2xl font-bold text-gray-800 hover:text-blue-600 transition-colors"
         >
-          My Drizzle Blog
+          MOSBytes
         </Link>
         <nav className="flex items-center space-x-6">
           <Link href="#featured" className="text-gray-600 hover:text-blue-600 hidden md:block">Featured</Link>
